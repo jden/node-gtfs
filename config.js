@@ -17,7 +17,7 @@ module.exports = {
     'wmata',
     'metropolitan-atlanta-rapid-transit-authority',
     'mta-bus-company',
-    'carta',
+    {agency_key: 'carta', url: 'http://protected-anchorage-8242.herokuapp.com/'},
     'massachusetts-bay-transportation-authority',
     'detroit-department-of-transportation',
     ]
